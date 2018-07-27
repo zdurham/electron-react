@@ -1,0 +1,23 @@
+{
+  "name": "electron-react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zdurham/electron-react.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zdurham/electron-react/issues"
+  },
+  "homepage": "https://github.com/zdurham/electron-react#readme",
+  "devDependencies": {
+    "electron": "^2.0.5"
+  }
+}
